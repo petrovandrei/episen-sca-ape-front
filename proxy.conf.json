@@ -1,0 +1,6 @@
+{
+  "/add": {
+    "target": "http://back",
+    "secure": false
+  }
+}
